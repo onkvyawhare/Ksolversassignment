@@ -11,7 +11,7 @@ dotenv.config();
 
 dbConnection();
 
-//dbmongo
+//mongodbatlas
 
 const PORT = process.env.PORT || 9000;
 
