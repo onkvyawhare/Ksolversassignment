@@ -11,7 +11,7 @@ dotenv.config();
 
 dbConnection();
 
-//mongodbatlas
+//atlasdb
 
 const PORT = process.env.PORT || 9000;
 
