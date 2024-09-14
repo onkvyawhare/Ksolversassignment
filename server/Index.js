@@ -11,7 +11,7 @@ dotenv.config();
 
 dbConnection();
 
-//db
+//dbmongo
 
 const PORT = process.env.PORT || 9000;
 
